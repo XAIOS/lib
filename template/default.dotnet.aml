@@ -1,5 +1,6 @@
 <!--
   title
+  path_config dotnet
   css_min Common reset clever
   js_min Common post vue clever
   eruda

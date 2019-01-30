@@ -1,8 +1,5 @@
 <!--
   title
-  path img img
-  path css css
-  path js js
   css_min lib reset clever
   js_min lib post vue clever
   eruda
